@@ -3,7 +3,7 @@ Seja Bem vindo ao meu repositório, acompanhe o meu crescimento! 👋
 
 
 - 🔭 Atualmente trabalhando como analista de qualidade
-- 🌱 Estudando Javascript
+- 🌱 Front End Developer
 - 📫 Entre em contato comigo pelo email: matheusvld777@gmail.com
 - 🌎 "The World is Yours!"
 
