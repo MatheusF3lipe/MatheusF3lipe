@@ -1,4 +1,4 @@
-### Olá! eu sou o Matheus Felipe 
+### Olá! Eu sou o Matheus Felipe 
 Seja Bem vindo ao meu repositório, acompanhe o meu crescimento! 👋
 
 
