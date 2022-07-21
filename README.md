@@ -2,10 +2,10 @@
 Seja Bem vindo ao meu repositório, acompanhe o meu crescimento! 👋
 
 
-- 🔭 Atualmente trabalhando como analista de qualidade
-- 🌱 Front End Developer
+
+- 💻 Front End Developer
+- 👨‍💻 Vue JS
 - 📫 Entre em contato comigo pelo email: matheusvld777@gmail.com
-- 🌎 "The World is Yours!"
 
 <div>
   <a href="https://github.com/MatheusF3lipe">
