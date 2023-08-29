@@ -3,8 +3,8 @@ Seja Bem vindo ao meu repositório, acompanhe o meu crescimento! 👋
 
 
 
-- 💻 Front End Developer
-- 👨‍💻 Vue JS
+- 💻 Full Stack Developer
+- 👨‍💻 .Net Core | C# | Entity Framework| SQL | Vue Js | Javascript 
 - 📫 Entre em contato comigo pelo email: matheusvld777@gmail.com
 
 <div>
